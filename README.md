@@ -1,1 +1,1 @@
-wifematerial.github.io/terminal
+https://wifematerial.github.io/terminal
